@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/meetkeep/static/css/main.0b67ce0d.chunk.css",
+    "main.js": "/meetkeep/static/js/main.d82f2f64.chunk.js",
+    "main.js.map": "/meetkeep/static/js/main.d82f2f64.chunk.js.map",
+    "runtime-main.js": "/meetkeep/static/js/runtime-main.a9e605b0.js",
+    "runtime-main.js.map": "/meetkeep/static/js/runtime-main.a9e605b0.js.map",
+    "static/js/2.a36a4081.chunk.js": "/meetkeep/static/js/2.a36a4081.chunk.js",
+    "static/js/2.a36a4081.chunk.js.map": "/meetkeep/static/js/2.a36a4081.chunk.js.map",
+    "index.html": "/meetkeep/index.html",
+    "precache-manifest.19b988840069f9e0c1cb15b805acc7bf.js": "/meetkeep/precache-manifest.19b988840069f9e0c1cb15b805acc7bf.js",
+    "service-worker.js": "/meetkeep/service-worker.js",
+    "static/css/main.0b67ce0d.chunk.css.map": "/meetkeep/static/css/main.0b67ce0d.chunk.css.map",
+    "static/js/2.a36a4081.chunk.js.LICENSE.txt": "/meetkeep/static/js/2.a36a4081.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9e605b0.js",
+    "static/js/2.a36a4081.chunk.js",
+    "static/css/main.0b67ce0d.chunk.css",
+    "static/js/main.d82f2f64.chunk.js"
+  ]
+}
